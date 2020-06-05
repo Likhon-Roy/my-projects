@@ -111,22 +111,3 @@ int main()
     else cout<<"your table is full. great job"<<endl;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
